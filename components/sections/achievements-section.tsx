@@ -1,7 +1,7 @@
 // components/achievements-section.tsx (or wherever your achievements array is defined)
 import HeadingBadge from "@/components/heading-badge";
 import { SpotlightCard } from "@/components/ui/spotlight-card";
-import { Trophy, GraduationCap } from "lucide-react";
+import { Trophy } from "lucide-react"; // Removed GraduationCap as it was unused
 
 type Achievement = {
   title: string;
@@ -54,7 +54,7 @@ export function AchievementsSection() {
             </span>
           </h3>
           <p className="text-[#737373] dark:text-[#A1A1AA] text-sm">
-            Recognitions that reflect my dedication to learning and performance.
+              Recognitions that reflect my dedication to learning and performance.
           </p>
         </div>
       </div>
