@@ -75,7 +75,7 @@ Once the development server is running, you can explore the portfolio locally in
 
 Feel free to reach out!
 
-* **Your Name:** Tushar
+
 * **GitHub:** [https://github.com/Tushar-exists](https://github.com/Tushar-exists)
 * **LinkedIn:** [www.linkedin.com/in/tusharkbhushan](https://www.linkedin.com/in/tusharkbhushan)
 * **Email:** [tushar.kr.bh@gmail.com](mailto:tushar.kr.bh@gmail.com)
