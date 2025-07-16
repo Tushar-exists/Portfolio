@@ -14,7 +14,7 @@ A sleek, modern, and highly responsive personal portfolio website designed to sh
     * **Experience:** Professional work history and internships.
     * **Services:** (If applicable, based on your content)
     * **Contact:** Easy ways to get in touch.
-* **Dark Mode Support:** (Assuming this is a feature, common with Next.js/Tailwind setups)
+* **Dark Mode Support**
 * **Optimized Performance:** Fast loading times and smooth navigation.
 
 ## 🚀 Technologies Used
