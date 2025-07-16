@@ -21,12 +21,12 @@ A sleek, modern, and highly responsive personal portfolio website designed to sh
 
 This project leverages a powerful and modern tech stack:
 
-* **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+* **Framework:** [Next.js 15](https://nextjs.org/) 
 * **Language:** [TypeScript](https://www.typescriptlang.org/)
 * **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
 * **Icons:** [Lucide React](https://lucide.dev/icons/) & [React Icons](https://react-icons.github.io/react-icons/)
 * **Animations:** [Framer Motion](https://www.framer.com/motion/)
-* **Deployment:** Vercel (or similar hosting)
+* **Deployment:** Vercel 
 
 ## 🛠️ Setup and Installation
 
