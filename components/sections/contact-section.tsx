@@ -55,7 +55,7 @@ export function ContactSection() {
           </h4>
 
           <a
-            href="mailto:amankumarr7390@gmail.com"
+            href="mailto:tushar.works09@gmail.com" // Corrected mailto link
             className="inline-flex items-center gap-2 px-4 py-2 rounded-sm bg-gray-100 dark:bg-[#191a1a] text-[#08090a] dark:text-slate-200 hover:bg-gray-200 dark:hover:bg-gray-500/10 transition-colors"
           >
             tushar.works09@gmail.com
@@ -66,7 +66,7 @@ export function ContactSection() {
             <SocialIcon href="https://x.com/Tushar_existss"><FaXTwitter className="w-5 h-5" /></SocialIcon>
             <SocialIcon href="https://github.com/Tushar-exists"><FaGithub className="w-5 h-5" /></SocialIcon>
             <SocialIcon href="https://www.linkedin.com/in/tushar-kumar-bhushan-bb5381244/"><FaLinkedin className="w-5 h-5" /></SocialIcon>
-            
+            {/* <SocialIcon href="YOUR_MEDIUM_URL"><FaMedium className="w-5 h-5" /></SocialIcon> */} {/* Medium icon commented out as no URL provided */}
           </div>
 
           <p className="inline-block px-4 py-2 text-sm text-[#737373] dark:text-[#A1A1AA] bg-gray-50 dark:bg-[#141414] rounded-sm">
