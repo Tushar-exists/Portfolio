@@ -3,7 +3,7 @@
 import { Mail, MessageSquare } from "lucide-react";
 import HeadingBadge from "@/components/heading-badge";
 import { SpotlightCard } from "@/components/ui/spotlight-card";
-import { FaGithub, FaLinkedin, FaXTwitter, FaMedium } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaXTwitter} from "react-icons/fa6";
 import { ModeToggle } from "@/components/mode-toggle";
 import React from "react";
 
