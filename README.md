@@ -19,14 +19,15 @@ A sleek, modern, and highly responsive personal portfolio website designed to sh
 
 ## 🚀 Technologies Used
 
-This project leverages a powerful and modern tech stack:
-
-* **Framework:** [Next.js 15](https://nextjs.org/) 
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
-* **Icons:** [Lucide React](https://lucide.dev/icons/) & [React Icons](https://react-icons.github.io/react-icons/)
-* **Animations:** [Framer Motion](https://www.framer.com/motion/)
-* **Deployment:** Vercel 
+|    |    |
+| -- | -- |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs)      | Modern React framework (v15)  |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) | Type-safe, maintainable code  |
+| ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38bdf8?logo=tailwindcss) | Utility-first, custom CSS     |
+| ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer)   | Motion/animation library      |
+| ![Lucide](https://img.shields.io/badge/-Lucide-000?logo=lucide)           | Crisp, modern icon set        |
+| ![React Icons](https://img.shields.io/badge/-React_Icons-61DAFB?logo=react) | Large icon collection         |
+| ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)           | Lightning-fast deployment     |
 
 ## 🛠️ Setup and Installation
 
@@ -41,8 +42,8 @@ Follow these steps to get a local copy of the project up and running on your mac
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Tushar-exists/Tushar.git](https://github.com/Tushar-exists/Tushar.git)
-    cd Tushar
+    git clone [https://github.com/Tushar-exists/Portfolio.git](https://github.com/Tushar-exists/Portfolio.git)
+    cd Portfolio
     ```
     *(If you are setting this up as a new solo project, ensure you clone into an empty directory, then follow the steps for creating a new Git history as previously discussed.)*
 
@@ -75,7 +76,6 @@ Once the development server is running, you can explore the portfolio locally in
 
 Feel free to reach out!
 
-
-* **GitHub:** [https://github.com/Tushar-exists](https://github.com/Tushar-exists)
-* **LinkedIn:** [www.linkedin.com/in/tusharkbhushan](https://www.linkedin.com/in/tusharkbhushan)
-* **Email:** [tushar.kr.bh@gmail.com](mailto:tushar.kr.bh@gmail.com)
+* **GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tushar-exists) [https://github.com/Tushar-exists](https://github.com/Tushar-exists)
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkbhushan) [www.linkedin.com/in/tusharkbhushan](https://www.linkedin.com/in/tusharkbhushan)
+* **Email:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tushar.kr.bh@gmail.com) [tushar.kr.bh@gmail.com](mailto:tushar.kr.bh@gmail.com)
