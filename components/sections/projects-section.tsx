@@ -24,7 +24,7 @@ const projects: Project[] = [
     title: "LinkSwift",
     description:
       "Engineered a modern, full-featured URL shortener with a secure Supabase backend, crafted using React and Tailwind CSS",
-    imageUrl: "public/image.png",
+    imageUrl: "/image.png",
     Image: "",
     tags: ["React", "Tailwind CSS", "Vite", "ShadCN"],
     link: "https://link-swift.vercel.app/",
