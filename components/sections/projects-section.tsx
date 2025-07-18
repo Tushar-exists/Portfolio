@@ -24,11 +24,11 @@ const projects: Project[] = [
     title: "XCODE",
     description:
       "A modern and stylish developer-focused landing page built using React, Tailwind CSS, and Spline for 3D elements",
-    imageUrl: "/xcode2.jpg",
+    imageUrl: "/image.jpg",
     Image: "",
-    tags: ["React", "Tailwind CSS", "Boxicons", "JavaScript"],
-    link: "https://xcode-navy.vercel.app/",
-    githubLink: "https://github.com/Amank1412/XCODE",
+    tags: ["React", "Tailwind CSS", "Vite", "ShadCN"],
+    link: "https://link-swift.vercel.app/",
+    githubLink: "https://github.com/Tushar-exists/URL-Shortener",
     
   },
 
