@@ -21,10 +21,10 @@ type Project = {
 const projects: Project[] = [
   {
     id: "1",
-    title: "XCODE",
+    title: "LinkSwift",
     description:
-      "A modern and stylish developer-focused landing page built using React, Tailwind CSS, and Spline for 3D elements",
-    imageUrl: "/image.jpg",
+      "Engineered a modern, full-featured URL shortener with a secure Supabase backend, crafted using React and Tailwind CSS",
+    imageUrl: "/image.png",
     Image: "",
     tags: ["React", "Tailwind CSS", "Vite", "ShadCN"],
     link: "https://link-swift.vercel.app/",
