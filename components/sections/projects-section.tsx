@@ -32,7 +32,7 @@ const projects: Project[] = [
     
   },
 
-    {
+  //  {
     id: "2",
     title: "Nexora",
     description:
@@ -47,7 +47,7 @@ const projects: Project[] = [
 
   
   
-   {
+  // {
     id: "3",
     title: "NEXT_U",
     description:
