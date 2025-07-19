@@ -32,7 +32,7 @@ const projects: Project[] = [
     
   },
 
-  //  {
+    {
     id: "2",
     title: "Nexora",
     description:
@@ -41,7 +41,7 @@ const projects: Project[] = [
     Image: "",
     tags: ["React", "Tailwind CSS", "Lucide React", "JavaScript"],
     link: "https://nexora-yz8g.vercel.app/",
-    githubLink: "https://github.com/Amank1412/Nexora",
+    githubLink: "",
     
   },
 
@@ -57,7 +57,7 @@ const projects: Project[] = [
    tags: ["React", "Next.js", "TailwindCSS", "Node.js", "Express.js", "MongoDB",  "Firebase"],
 
     link: "https://queue-4-u-amuhacks-4-0.vercel.app/",
-    githubLink: "https://github.com/Sd2k3/Queue_4U_AMUHACKS4.0",
+    githubLink: "",
     
   },
 
