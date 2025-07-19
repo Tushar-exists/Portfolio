@@ -55,7 +55,7 @@ const projects: Project[] = [
   "Image": "",
   "tags": ["Python", "PyTorch", "Hugging Face Transformers", "Gradio", "NLP"],
   "link": "https://your-app-deployment-link.com",
-  "githubLink": "https://github.com/your-username/your-repo-name"
+  "githubLink": "https://github.com/Tushar-exists/NLP-Toolkit"
 },
 
 ];
