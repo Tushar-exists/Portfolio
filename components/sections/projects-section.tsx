@@ -47,19 +47,16 @@ const projects: Project[] = [
 
   
   
-  // {
-    id: "3",
-    title: "NEXT_U",
-    description:
-      "Next_U is a gamified self-growth app that turns real-life habits into an RPG adventure with levels, achievements, and leaderboards",
-    imageUrl: "/next.jpg",
-    Image: "",
-   tags: ["React", "Next.js", "TailwindCSS", "Node.js", "Express.js", "MongoDB",  "Firebase"],
-
-    link: "https://queue-4-u-amuhacks-4-0.vercel.app/",
-    githubLink: "",
-    
-  },
+{
+  "id": "3",
+  "title": "Unified NLP Toolkit",
+  "description": "An integrated suite of AI-powered tools for advanced text analysis. Perform high-accuracy summarization, multilingual translation, and contextual question-answering through a unified web interface.",
+  "imageUrl": "/next1.png",
+  "Image": "",
+  "tags": ["Python", "PyTorch", "Hugging Face Transformers", "Gradio", "NLP"],
+  "link": "https://your-app-deployment-link.com",
+  "githubLink": "https://github.com/your-username/your-repo-name"
+},
 
 ];
 
