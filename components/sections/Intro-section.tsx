@@ -37,7 +37,7 @@ export function IntroSection() {
         </article>
         <div className="mt-4">
           <a
-            href="/Tushar_Resume.pdf"
+            href="/TusharResume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download="TusharResume.pdf"
