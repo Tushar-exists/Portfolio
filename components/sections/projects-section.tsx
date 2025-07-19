@@ -54,7 +54,7 @@ const projects: Project[] = [
   "imageUrl": "/next1.png",
   "Image": "",
   "tags": ["Python", "PyTorch", "Hugging Face Transformers", "Gradio", "NLP"],
-  "link": "https://your-app-deployment-link.com",
+  "link": "",
   "githubLink": "https://github.com/Tushar-exists/NLP-Toolkit"
 },
 
