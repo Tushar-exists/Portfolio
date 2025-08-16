@@ -33,61 +33,29 @@ export function AboutSection() {
           <div className="space-y-4">
             <h4 className="text-lg font-medium text-[#08090a] dark:text-white flex items-center gap-2">
               <span className="h-1 w-1 rounded-full bg-gray-900 dark:bg-emerald-500"></span>
-              Who I Am
+              My Journey From Curiosity to Creation
             </h4>
             <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              I&apos;m a passionate full-stack developer with a keen eye for
-              design and a love for creating seamless user experiences. With
-              over 2+ years of experience in full-stack development, I&apos;ve
-              worked on a variety of projects ranging from small business
-              websites to complex enterprise applications.
+              My tech journey began with a YouTube video that sparked a curiosity for how software is built. I dove into web development, quickly moving beyond simple pages to architecting the kind of complex, full-stack applications I saw professionals create. What started as an exploration has become a passion for engineering solutions that are both powerful and user-friendly.
             </p>
             <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              My approach combines technical expertise with creative
-              problem-solving, ensuring that every project I work on is not only
-              functional but also visually appealing and user-friendly.
+              I believe the best products are born from a blend of robust engineering and intuitive design. This principle guides my work, whether I&apos;m architecting a real-time AI application or engineering a scalable backend service. My focus is always on writing clean, efficient code to solve tangible problems.
             </p>
           </div>
 
           <div className="space-y-4">
             <h4 className="text-lg font-medium text-[#08090a] dark:text-white flex items-center gap-2">
               <span className="h-1 w-1 rounded-full bg-gray-900 dark:bg-emerald-500"></span>
-              My Journey
+              Beyond the IDE
             </h4>
             <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              My tech journey began with a YouTube video titled &quot;My journey
-              from nothing to Google&quot; that sparked my curiosity. Though I
-              had basic computer science knowledge, software development was new
-              territory. Web development seemed like the perfect entry point,
-              and what started as simple exploration quickly became a passion.
-              Now I&apos;m constantly learning new technologies and building
-              solutions that make a difference.
+              Away from the keyboard, I enjoy playing and watching cricket, following football, and diving into the world of Anime. These hobbies fuel my creativity and provide a fresh perspective on problem-solving.
             </p>
             <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              Throughout my career, I&apos;ve had the opportunity to work with
-              amazing teams and clients, each project adding to my skills and
-              experience. I&apos;m particularly proud of my work on Artifact UI,
-              which is a UI component library.
+              I am also committed to sharing my knowledge and growing with the tech community. I actively contribute to open-source projects and enjoy breaking down complex topics on my technical blog.
             </p>
           </div>
 
-          <div className="space-y-4">
-            <h4 className="text-lg font-medium text-[#08090a] dark:text-white flex items-center gap-2">
-              <span className="h-1 w-1 rounded-full bg-gray-900 dark:bg-emerald-500"></span>
-              Beyond Coding
-            </h4>
-            <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              Away from the keyboard, I enjoy playing and watching cricket,
-              following football matches, and watching movies. My biggest
-              passion is Anime, which inspires my creativity and keeps me
-              entertained.
-            </p>
-            <p className="text-sm text-[#737373] dark:text-[#A1A1AA] leading-relaxed">
-              I&apos;m also passionate about mentoring and sharing knowledge. I
-              regularly contribute to open-source projects and occasionally
-              write technical articles on my blog.
-            </p>
-          </div>
         </div>
       </SpotlightCard>
     </section>
