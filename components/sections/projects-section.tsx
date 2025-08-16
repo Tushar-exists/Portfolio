@@ -81,7 +81,7 @@ export function ProjectsSection() {
             My <span className="text-[#08090a] dark:text-slate-200">Projects</span>
           </h3>
           <p className="text-[#737373] dark:text-[#A1A1AA] text-sm">
-            Explore some of the projects I've worked on. These showcase my
+            Explore some of the projects I&apos;ve worked on. These showcase my
             skills and expertise in various domains of software development.
           </p>
         </div>
