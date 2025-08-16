@@ -22,7 +22,7 @@ const projects: Project[] = [
   {
     
 
-{
+
   id: "1",
   title: "PocketClass",
   description:
