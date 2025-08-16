@@ -20,20 +20,15 @@ export function IntroSection() {
             </span>
           </h1>
 
-          <p className="text-xl sm:text-2xl font-medium text-[#737373] dark:text-[#A1A1AA] max-w-2xl">
-            A Full Stack Developer passionate about crafting seamless digital
-            experiences
+          <p className="text-xl sm:text-2xl font-normal text-[#737373] dark:text-[#A1A1AA] max-w-2xl">
+            I&apos;m a Full-Stack Developer specializing in building intelligent, AI-driven applications.
+            My focus is on architecting robust solutions with{" "}
+            <span className="text-[#08090a] dark:text-slate-100 font-semibold">
+              Next.js, Firebase, and LangChain
+            </span>
+            , transforming complex problems into clean, efficient, and user-centric products.
           </p>
 
-          <p className="text-sm sm:text-base font-normal text-[#737373] dark:text-[#A1A1AA] max-w-2xl">
-            I specialize in building web apps with{" "}
-            <span className="text-[#08090a] dark:text-slate-100 font-semibold">
-               React, JavaScript, Tailwind CSS, Node.js and more.
-            </span>{" "}
-            Always excited to tackle new challenges where I can create value and
-            grow as a coder. Let&apos;s connect if you&apos;ve got a project
-            that could use my skills!
-          </p>
         </article>
         <div className="mt-4">
           <a
