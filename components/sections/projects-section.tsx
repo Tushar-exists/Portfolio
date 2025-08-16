@@ -20,7 +20,25 @@ type Project = {
 
 const projects: Project[] = [
   {
-    id: "1",
+    
+
+{
+  id: "1",
+  title: "PocketClass",
+  description:
+    "Architected an AI-powered note-taking platform that transforms notes into professional documents, using LangChain, Next.js, and Firebase.",
+  imageUrl: "/POCKET.png",
+  Image: "",
+  tags: ["Next.js", "Firebase", "LangChain", "Gemini API", "ShadCN UI"],
+  link: "https://pocketclass-intern-assignment.vercel.app/",
+  githubLink: "https://github.com/Tushar-exists/Pocket-Class",
+}
+    
+    
+  },
+
+    {
+    id: "2",
     title: "LinkSwift",
     description:
       "Engineered a modern, full-featured URL shortener with a secure Supabase backend, crafted using React and Tailwind CSS",
@@ -29,19 +47,6 @@ const projects: Project[] = [
     tags: ["React", "Tailwind CSS", "Vite", "ShadCN"],
     link: "https://link-swift.vercel.app/",
     githubLink: "https://github.com/Tushar-exists/URL-Shortener",
-    
-  },
-
-    {
-    id: "2",
-    title: "Nexora",
-    description:
-      "Nexora is a modern, responsive web application built with React, Vite, and Tailwind CSS. It aims to deliver a clean UI, fast performance.",
-    imageUrl: "/nex.jpg",
-    Image: "",
-    tags: ["React", "Tailwind CSS", "Lucide React", "JavaScript"],
-    link: "https://nexora-yz8g.vercel.app/",
-    githubLink: "",
     
   },
 
