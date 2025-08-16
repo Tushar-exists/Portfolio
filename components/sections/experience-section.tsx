@@ -21,7 +21,7 @@ const experiences: Experience[] = [
     company: "Perfectrans",
 
     position: "Software Development Engineer",
-    duration: "May 2025 - July 2025",
+    duration: "June 2025 - July 2025",
     description: [
       "ADeveloped a Unified NLP Toolkit for Perfectrans, a suite of internal Generative AI applications.",
       "Automated and enhanced specific in-house tasks related to content analysis and translation support through custom NLP solutions.",
