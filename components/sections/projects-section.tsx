@@ -15,29 +15,21 @@ type Project = {
   tags: string[];
   link?: string;
   githubLink?: string;
-  
 };
 
 const projects: Project[] = [
   {
-    
-
-
-  id: "1",
-  title: "PocketClass",
-  description:
-    "Architected an AI-powered note-taking platform that transforms notes into professional documents, using LangChain, Next.js, and Firebase.",
-  imageUrl: "/POCKET.png",
-  Image: "",
-  tags: ["Next.js", "Firebase", "LangChain", "Gemini API", "ShadCN UI"],
-  link: "https://pocketclass-intern-assignment.vercel.app/",
-  githubLink: "https://github.com/Tushar-exists/Pocket-Class",
-}
-    
-    
+    id: "1",
+    title: "PocketClass",
+    description:
+      "Architected an AI-powered note-taking platform that transforms notes into professional documents, using LangChain, Next.js, and Firebase.",
+    imageUrl: "/POCKET.png",
+    Image: "",
+    tags: ["Next.js", "Firebase", "LangChain", "Gemini API", "ShadCN UI"],
+    link: "https://pocketclass-intern-assignment.vercel.app/",
+    githubLink: "https://github.com/Tushar-exists/Pocket-Class",
   },
-
-    {
+  {
     id: "2",
     title: "LinkSwift",
     description:
@@ -47,22 +39,18 @@ const projects: Project[] = [
     tags: ["React", "Tailwind CSS", "Vite", "ShadCN"],
     link: "https://link-swift.vercel.app/",
     githubLink: "https://github.com/Tushar-exists/URL-Shortener",
-    
   },
-
-  
-  
-{
-  "id": "3",
-  "title": "Unified NLP Toolkit",
-  "description": "An integrated suite of AI-powered tools for advanced text analysis. Perform high-accuracy summarization, multilingual translation, and contextual question-answering through a unified web interface.",
-  "imageUrl": "/next1.png",
-  "Image": "",
-  "tags": ["Python", "PyTorch", "Hugging Face Transformers", "Gradio", "NLP"],
-  "link": "",
-  "githubLink": "https://github.com/Tushar-exists/NLP-Toolkit"
-},
-
+  {
+    id: "3",
+    title: "Unified NLP Toolkit",
+    description:
+      "An integrated suite of AI-powered tools for advanced text analysis. Perform high-accuracy summarization, multilingual translation, and contextual question-answering through a unified web interface.",
+    imageUrl: "/next1.png",
+    Image: "",
+    tags: ["Python", "PyTorch", "Hugging Face Transformers", "Gradio", "NLP"],
+    link: "",
+    githubLink: "https://github.com/Tushar-exists/NLP-Toolkit",
+  },
 ];
 
 export function ProjectsSection() {
@@ -90,11 +78,10 @@ export function ProjectsSection() {
         />
         <div className="space-y-2">
           <h3 className="text-3xl font-semibold">
-            My{" "}
-            <span className="text-[#08090a] dark:text-slate-200">Projects</span>
+            My <span className="text-[#08090a] dark:text-slate-200">Projects</span>
           </h3>
           <p className="text-[#737373] dark:text-[#A1A1AA] text-sm">
-            Explore some of the projects I&apos;ve worked on. These showcase my
+            Explore some of the projects I've worked on. These showcase my
             skills and expertise in various domains of software development.
           </p>
         </div>
@@ -102,21 +89,11 @@ export function ProjectsSection() {
 
       <div className="w-full space-y-6">
         <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-1 gap-2 w-full">
-          {projects.map((project) => {
-            const isVisible = projectsToShow.some((p) => p.id === project.id);
-            return (
-              <div
-                key={project.id}
-                className={`transition-all duration-500 ease-in-out transform ${
-                  isVisible
-                    ? "opacity-100 translate-y-0"
-                    : "opacity-0 h-0 -translate-y-4 overflow-hidden pointer-events-none"
-                }`}
-              >
-                <ProjectCard project={project} />
-              </div>
-            );
-          })}
+          {projectsToShow.map((project) => (
+            <div key={project.id}>
+              <ProjectCard project={project} />
+            </div>
+          ))}
         </div>
 
         {canShowMore && (
