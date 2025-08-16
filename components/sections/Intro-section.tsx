@@ -1,10 +1,8 @@
 import HeadingBadge from "@/components/heading-badge";
 import { Hand } from "lucide-react";
 
-// Best Practice: Define constants at the top of the file.
-// This makes them easy to find and update without touching the component's structure.
-// I've also updated the filename to be more professional.
 const RESUME_FILENAME = "Tushar_Kumar_Resume.pdf";
+
 
 export function IntroSection() {
   return (
@@ -43,7 +41,7 @@ export function IntroSection() {
             className="inline-flex items-center gap-2 px-6 py-2 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-md shadow transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-400"
           >
             Resume
-            <svg xmlns="http://www.w.org/2000/svg" width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" className="inline-block">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" className="inline-block">
               <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v12m0 0l-4-4m4 4l4-4m-8 8h8" />
             </svg>
           </a>
